@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Next.JS, React, Unity**
 
 - ⚡ Fun fact **I played with the iPhone before it was launched**
-
+<br/><br/>
 <div align="center"> 
   <a href="mailto:timconwaydev@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
