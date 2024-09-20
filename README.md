@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from Canada</h3>
 <br/>
 
-- 🔭 I’m currently working on **Content Roadmap Planner**
+- 🔭 I’m currently working on **http://www.RevolutionsDanceStudio.com**
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently studying **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.timconway.dev/](https://www.timconway.dev/)
 
